@@ -34,3 +34,5 @@ The Breast Cancer dataset is loaded from sklearn and includes 30 features. The d
 
 ### 5. Predictive System
 - A predictive system is implemented to classify a new tumor as malignant or benign based on the input data.
+### 6. Results
+This model achieves a high accuracy 96.49% on the test data.
